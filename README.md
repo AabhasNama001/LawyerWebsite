@@ -32,6 +32,7 @@ This website is powered by **WordPress**, utilizing:
 ## 📁 Repository Structure
 
 As this is a WordPress-based project, the typical structure includes:
+
 ├── wp-content/
 │ ├── themes/
 │ │ └── (custom or child themes)
